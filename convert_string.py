@@ -1,6 +1,6 @@
 #/usr/bin/env python
 
-path = '/Users/admin/Desktop/Python/tmp/sch_list.conf'
+path = '/Users/admin/Projects/tmp/schedule.conf'
 expected = ['monday', 'tuesday', 'wednesday']
 found = {}
 unexpected = {}
